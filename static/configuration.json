@@ -1,0 +1,15 @@
+{
+    "githubUsername": "Anychnn",
+    "blogTitle": "AnYang",
+    "blogDescribe": "欢迎来到安洋的个人博客。",
+    "htmlTitle": "安洋的个人博客",
+    "fontColor": "#ffffff",
+    "useBackgroundImage": false,
+    "backgroundColorLeft": "#2690F9",
+    "backgroundColorRight": "#FC2D2D",
+    "audioUrl": "http://win.web.nf03.sycdn.kuwo.cn/4dad90845a66ccce1ac11671b143b1e3/5b05a11c/resource/a2/89/78/1951153460.aac",
+    "mini": false,
+    "webSites":[
+        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+    ]
+}
